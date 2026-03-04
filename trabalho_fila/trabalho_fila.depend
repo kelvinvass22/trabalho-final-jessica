@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1772623145 source:c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\trabalho_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho_fila.h"
+
+1772400531 c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\trabalho_fila\trabalho_fila.h
+
+1772454642 source:c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\trabalho_fila\trabalho_fila.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho_fila.h"
+

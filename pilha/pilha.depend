@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1772621725 source:c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\pilha\main.c
+	<stdio.h>
+	"pilha.h"
+
+1772621874 c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\pilha\pilha.h
+
+1772622354 source:c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+

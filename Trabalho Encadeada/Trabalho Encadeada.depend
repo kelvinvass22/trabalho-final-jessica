@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1772399508 source:c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\trabalho encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho_encadeado.h"
+
+1772400208 c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\trabalho encadeada\trabalho_encadeado.h
+
+1772399305 source:c:\users\kelvi\onedrive\documentos\ads- s2\jessica\modoluo abstrato\fila\trabalho encadeada\trabalho_encadeado.c
+	"trabalho_encadeado.h"
+	<stdio.h>
+	<stdlib.h>
+
