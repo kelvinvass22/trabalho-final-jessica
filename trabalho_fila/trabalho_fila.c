@@ -11,17 +11,15 @@ Fila* fila_cria(void) {
     return NULL;
 }
 
-// FUNÇÃO EXTRA: Busca para evitar repetidos (Tratamento solicitado)
 int fila_busca(Fila* f, int v) {
     Fila* q;
     for (q = f; q != NULL; q = q->prox) {
-        if (q->info == v) return 1; // Achou repetido
+        if (q->info == v) return 1;
     }
-    return 0; // Não achou
+    return 0;
 }
 
 Fila* fila_insere(Fila* f, int v) {
-    // Tratamento de não repetir
     if (fila_busca(f, v)) {
         printf("Erro: ID %d ja existe na fila!\n", v);
         return f;
